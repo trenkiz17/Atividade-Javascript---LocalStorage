@@ -6,11 +6,11 @@
     --footer-bg: #0c0505;}
   
     body.dark {
-      --bg-color: #f5ebeb;
-      --text-color: #1f1d1d;
+      --bg-color: #ffffff;
+      --text-color: #222222;
       --card-bg: #1f0b0b;
-      --header-bg: #4b1616;
-      --footer-bg: #310b0b;
+      --header-bg: #802323;
+      --footer-bg: #521212;
     }
   
     nav {
@@ -173,5 +173,6 @@
       background: var(--accent);
       color: white;
     }
+    
     
     
